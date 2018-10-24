@@ -1,6 +1,6 @@
 # password.live
 
-🔒 Generate simple or complex passwords directly from your web browser. [https://password.live][password]
+Generate simple or complex passwords directly from your web browser. [https://password.live][password]
 
 [![Build Status](https://travis-ci.org/devshawn/password.live.svg?branch=master)](https://travis-ci.org/devshawn/password.live)  [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/devshawn/react-dayjs/blob/master/LICENSE.md) [![lerna](https://img.shields.io/badge/maintained%20with-lerna-cc00ff.svg)](https://lernajs.io/)
 
